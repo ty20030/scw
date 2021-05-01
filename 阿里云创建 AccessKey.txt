@@ -1,0 +1,3 @@
+bucketName: scw2021420
+AccessKey ID: LTAI5tHQH5qTFqQ8KfY7pJRY
+AccessKey Secret: HnMjwaA13saUyLIlxd2wo1rxFScCoc
